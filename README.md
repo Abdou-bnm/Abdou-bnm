@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript , Python and Java**
 
-- 👨‍💻 All of my projects are available at [not valide)
+- 👨‍💻 All of my projects are available at ....
 
 - 📫 How to reach me **Abderaouf.Benamirouche@gmail.com**
 
