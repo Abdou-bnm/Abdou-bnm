@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abderaouf (You can Call me "Abdou")</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">A passionate Developer from Algeria</h3>
 
 - 🌱 I’m currently learning **JavaScript , Python and Java**
