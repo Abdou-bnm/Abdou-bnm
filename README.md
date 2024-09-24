@@ -13,7 +13,10 @@
 - ❓ Ask me about anything related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+
+
+- Portfolio: https://abdou-bnm.github.io/Portfolio/
   
 
 <br/>  
