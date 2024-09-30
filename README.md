@@ -1,10 +1,7 @@
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/1137317676759388163/1268591143550193765/Frame_1707478801.png?ex=66acfb11&is=66aba991&hm=c20ad2edb7dea574f2de4f7b0f96753d8dcf79a587be9f4a2e8a905398714a98&" align="center" style="width: 100%" />
-</div>  
-  
+ 
 
-### <div align="center">I'm Abdou, Software developer 👨‍💻 </div> 
-### <div align="center">Passionate about coding and excited to explore AI development </div>
+### <div align="left">I'm Abdou, Software developer 👨‍💻 </div> 
+### <div align="left">Passionate about coding and excited to explore AI development </div>
   
 
 - 🌱 I’m currently learning Machine Learning   
@@ -118,12 +115,6 @@
   </table>
 
 
-### Statistics
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=abdou-bnm&show_icons=true&theme=radical&line_height=40">
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-bnm&theme=radical">
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=88d4bc&height=120&section=footer"/>
 
