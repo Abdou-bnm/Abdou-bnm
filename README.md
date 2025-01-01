@@ -24,10 +24,10 @@
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 10px;">
   
   <!-- Design Skills -->
-  <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" style="margin: 10px;">
+  <!-- <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" style="margin: 10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" width="40" height="40" style="margin: 10px;">
   <img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="40" height="40" style="margin: 10px;">
+  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="40" height="40" style="margin: 10px;"> -->
   
   <!-- Backend Skills -->
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40" height="40" style="margin: 10px;">
