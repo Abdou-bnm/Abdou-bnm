@@ -1,50 +1,173 @@
-### <div align="center">I'm Abdou, Software Developer 👨‍💻 </div> 
-### <div align="center">Passionate about coding and excited to explore AI development 🚀</div>
-
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Ywa204ejAydzY1M3Z1cjB1a3lub245bThvZ2Vyand5d3Nrb3B3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" alt="Centered GIF" width="250">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header&text=Welcome&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 </div>
 
----
-
-### 🚀 Portfolio
-- **[Visit my Portfolio](https://abdou-bnm.github.io/Portfolio/)**
-
----
-
-## 💡 My Skill Set  
-
 <div align="center">
-  <!-- Frontend Skills -->
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 10px;">
-  
-  <!-- Design Skills -->
-  <!-- <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="40" height="40" style="margin: 10px;"> -->
-  
-  <!-- Backend Skills -->
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin: 10px;">
-  
-  <!-- DevOps Skills -->
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 10px;">
-  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" width="40" height="40" style="margin: 10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Abdou&animation=blink" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=60&lines=About+Me&animation=blink" alt="Typing SVG" />
+</div>
 
-## 🌐 Connect with Me  
+## <div align="center"><strong>Cyber Security</strong> Student passionate about technology and innovation</div>
+
+<table align="center" width="84%">
+  <tr>
+    <td align="center" width="50%">
+      <div style="border:1px solid #7aa2f7; border-radius:12px; padding:15px; background:#1a1b26;">
+        <strong style="color: #7aa2f7;">Cybersecurity & Ethical Hacking</strong><br/>
+        <span style="font-size:14px; color: #c0caf5;">
+          I analyze systems for vulnerabilities, conduct penetration tests, and explore ways to defend digital infrastructure against threats.
+        </span>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div style="border:1px solid #bb9af7; border-radius:12px; padding:15px; background:#1a1b26;">
+        <strong style="color: #bb9af7;">AI & Machine Learning</strong><br/>
+        <span style="font-size:14px; color: #c0caf5;">
+          I design intelligent systems that learn from data-ranging from deep neural networks to real-time decision-making agents.
+        </span>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <div style="border:1px solid #ff9e64; border-radius:12px; padding:15px; background:#1a1b26;">
+        <strong style="color: #ff9e64;">Full-Stack Development</strong><br/>
+        <span style="font-size:14px; color: #c0caf5;">
+          I build modern web applications from backend APIs to user interfaces using tools like React, Node.js, and databases.
+        </span>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div style="border:1px solid #7dcfff; border-radius:12px; padding:15px; background:#1a1b26;">
+        <strong style="color: #7dcfff;">DevOps & Cloud Architecture</strong><br/>
+        <span style="font-size:14px; color: #c0caf5;">
+          I deploy and manage scalable applications using CI/CD, containerization (Docker), and cloud platforms like AWS & Azure.
+        </span>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=60&lines=Tech+Stack+%26+Skills&animation=blink" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3 align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=45&lines=Programming+Languages&animation=blink" alt="Typing SVG" />
+        </h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,cs,go,ruby,php,rust" />
+        </div>
+      </td>
+      <td>
+        <h3 align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=9370DB&center=true&vCenter=true&width=600&height=45&lines=Frontend+Development&animation=blink" alt="Typing SVG" />
+        </h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind,bootstrap,redux,graphql,webpack,jest" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3 align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&height=45&lines=Backend+Development&animation=blink" alt="Typing SVG" />
+        </h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel" />
+        </div>
+      </td>
+      <td>
+        <h3 align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=45&lines=Mobile+Development&animation=blink" alt="Typing SVG" />
+        </h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=react,flutter" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3 align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=32CD32&center=true&vCenter=true&width=600&height=45&lines=Database&animation=blink" alt="Typing SVG" />
+        </h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase" />
+        </div>
+      </td>
+      <td>
+        <h3 align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=600&height=45&lines=AI%2FML+%26+Data+Science&animation=blink" alt="Typing SVG" />
+        </h3>
+        <div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3 align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=4169E1&center=true&vCenter=true&width=600&height=45&lines=DevOps+%26+Cloud&animation=blink" alt="Typing SVG" />
+        </h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform" />
+        </div>
+      </td>
+      <td>
+        <h3 align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=45&lines=Security+%26+Networking&animation=blink" alt="Typing SVG" />
+        </h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=linux,bash,nginx,apache,git" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <h3 align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFA500&center=true&vCenter=true&width=600&height=45&lines=Design+%26+Tools&animation=blink" alt="Typing SVG" />
+        </h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=vscode,figma,github,gitlab" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="48" height="48"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="48" height="48"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=60&lines=GitHub+Statistics&animation=blink" alt="Typing SVG" />
+</div>
+
+<div align="center" style="background-color: #1a1b26; padding: 20px; border-radius: 10px; margin: 20px 0; box-shadow: 0 0 20px rgba(0, 191, 255, 0.1);">
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 1200px; margin: 0 auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-bnm&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7" alt="Abdou's Top Languages"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdou-bnm&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=ff9e64&currStreakLabel=c0caf5&sideNums=c0caf5&sideLabels=c0caf5&dates=c0caf5" alt="Abdou's Streak Stats" style="width: 54%"/>
+  </div>
+
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdou-bnm&theme=tokyonight&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=ff9e64" alt="Abdou's Activity Graph" style="width: 84%; max-width: 1200px;"/>
+  </div>
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=60&lines=Connect+with+Me&animation=blink" alt="Typing SVG" />
+</div>
 
 <div align="center">
 <a href="https://github.com/Abdou-bnm" target="_blank">
@@ -59,21 +182,11 @@
 <a href="https://instagram.com/0nly.Abdou" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin: 5px;" />
 </a>
-<a href="https://www.behance.net/abderaobenamir" target="_blank">
+<a href="https://www.behance.net/Abdou_" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin: 5px;" />
 </a>
 </div>
 
----
-
-## 📊 Profile Views  
-
 <div align="center">
-  <a href="https://github.com/Abdou-bnm">
-    <img src="https://komarev.com/ghpvc/?username=Abdou-bnm&style=for-the-badge&color=88d4bc" alt="Profile Views" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer&animation=fadeIn&fontAlignY=35"/>
 </div>
-
----
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=88d4bc&height=120&section=footer"/>
