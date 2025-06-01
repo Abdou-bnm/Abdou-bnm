@@ -156,12 +156,12 @@
 
 <div align="center" style="background-color: #1a1b26; padding: 20px; border-radius: 10px; margin: 20px 0; box-shadow: 0 0 20px rgba(0, 191, 255, 0.1);">
   <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 1200px; margin: 0 auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-bnm&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7" alt="Abdou's Top Languages"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdou-bnm&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=ff9e64&currStreakLabel=c0caf5&sideNums=c0caf5&sideLabels=c0caf5&dates=c0caf5" alt="Abdou's Streak Stats" style="width: 54%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdou-bnm&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7" alt="Abdou's Top Languages" style="width: 35%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdou-bnm&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=ff9e64&currStreakLabel=c0caf5&sideNums=c0caf5&sideLabels=c0caf5&dates=c0caf5" alt="Abdou's Streak Stats" style="width: 64%"/>
   </div>
 
   <div style="margin-top: 20px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdou-bnm&theme=tokyonight&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=ff9e64" alt="Abdou's Activity Graph" style="width: 84%; max-width: 1200px;"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdou-bnm&theme=tokyonight&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=ff9e64" alt="Abdou's Activity Graph" style="width: 100%; max-width: 1200px;"/>
   </div>
 </div>
 
